@@ -3,7 +3,7 @@ This is one of my projects namely Dice Game. This project is created for the pur
 
 
 Details of the project:
-1. Visit & Play: http://mydice.netlify.app
+1. Visit & Play: https://playwithdice.netlify.app/
 2. Languages: HTML, CSS, JavaScript
 3. Lunched: Friday, December 11, 2020
 4.   Catagory: Static Site.
