@@ -1,0 +1,115 @@
+* {
+    margin: 0;
+    padding: 0;
+    background-color: #393e46;
+    color: white;
+}
+
+.container {
+    text-align: center;
+
+}
+
+h1 {
+    font-family: Pacifico;
+    margin-top: 25px;
+    font-size: 70px;
+    color: coral;
+}
+
+span {
+    color: aqua;
+}
+
+.rules {
+    font-family: Josefin Sans;
+    margin-top: 30px;
+    font-size: 30px;
+}
+
+.details {
+    font-family: Josefin Sans;
+    padding: 10px 300px;
+    font-size: 25px;
+    line-height: 1.5;
+}
+
+.notes {
+    font-family: "Barlow Condensed";
+    padding: 10px 100px;
+    font-size: 20px;
+    line-height: 1.5
+}
+
+button {
+    margin: 50px 0;
+    color: yellow;
+    padding: 10px 30px;
+    font-family: Righteous;
+    font-size: 25px;
+    border-radius: 20px;
+    border: 2px solid aqua;
+    cursor: ponter;
+}
+
+a {
+    text-decoration: none;
+
+}
+
+button:hover {
+    background-color: white;
+    color: black;
+}
+
+/* Play section */
+.play {
+    width: 70%;
+    margin: auto;
+    text-align: center;
+}
+
+.dice {
+    text-align: center;
+    display: inline-block;
+
+}
+
+body {
+    background-color: #393E46;
+}
+
+.play h1 {
+    margin: 20px;
+    font-family: 'Lobster', cursive;
+    text-shadow: 5px 0 #232931;
+    font-size: 5rem;
+    color: #4ECCA3;
+}
+
+.dice p {
+    font-size: 2rem;
+    color: #4ECCA3;
+    font-family: 'Indie Flower', cursive;
+}
+
+img {
+    width: 80%;
+}
+
+.btn {
+    text-align: center;
+}
+
+footer p,
+footer p a {
+    margin-top: 5px;
+    color: #eeeeeebe;
+    text-align: center;
+    font-family: Josefin Sans;
+    font-size: 14px;
+}
+
+footer p a:hover {
+    color: white;
+}
